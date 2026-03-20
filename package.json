@@ -4,7 +4,8 @@
   "description": "Calculator with TDD approach",
   "main": "src/calculator.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "coverage": "jest --coverage"
   },
   "keywords": [],
   "author": "",
